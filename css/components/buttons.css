@@ -1,0 +1,13 @@
+.container-child a {
+  background-color: darkgreen;
+  color: white;
+  display:inline-block;
+  text-decoration:none;
+  border-radius:5px;
+  padding: 10px;
+}
+
+.footer-icons a {
+  color: grey;
+  font-size: 30px;
+}
